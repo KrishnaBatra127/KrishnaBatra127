@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am Krishna Batra, I am a student in NMIMS pursuing MBA Tech Computer engineering.
+
+I am currently trying to master AI agents.
+
+Contact me : thekind127op@gmail.com.
 
 <!--
 **KrishnaBatra127/KrishnaBatra127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
